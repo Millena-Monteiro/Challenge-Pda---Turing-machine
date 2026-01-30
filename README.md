@@ -10,6 +10,8 @@ JavaScript (The engine of our machine)
 
 Node.js (To run the code)
 
+Prettier (To ensure code standardization and cleanliness)
+
 Git & GitHub (To keep this organized chaos under control)
 
 🚀 How to run it
