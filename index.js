@@ -33,3 +33,7 @@ function turingMachine(tape) {
   }
   return results;
 }
+
+console.log(turingMachine([1, "+", 2]));
+console.log(turingMachine([1, "+", 2, 3, "*", 3]));
+console.log(turingMachine([10, "/", 2, 10, "%", 3]));
